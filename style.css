@@ -1,0 +1,27 @@
+body{
+    border:25px ridge dodgerblue;
+    font-family: cursive;
+    padding: 35px;
+    text-align: center;
+    color: white;
+    border-radius:10px;
+    
+    
+}
+
+.div_format{
+    margin:auto;
+    text-align: center;
+    width:60%;
+    border:10px groove dodgerblue;
+    background-color: dodgerblue;
+    border-radius: 15px;
+    padding:20px;
+    margin-bottom: 10px;
+
+}
+
+h4{
+    font-weight: 100;
+}
+
